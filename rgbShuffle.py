@@ -1,14 +1,6 @@
 import nuke
 import nukescripts
 
-
-#convert rgb to hex value
-#r = 1
-#g = 0
-#b = 0
-#hexColor = int('%02x%02x%02x%02x' % (r*255,g*255,b*255,1),16)
-#print hexColor
-
 #rgb hex value
 #red value: 4278190081
 #green value: 16711681
